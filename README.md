@@ -1,3 +1,4 @@
 # TestMergeNotify
 
 test
+test
